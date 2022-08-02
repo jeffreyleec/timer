@@ -11,14 +11,6 @@ const timer = function (input) {
     if (temp > 0) {
       newInput.push(temp)
     } 
-
-    
-    // if (item > 0) {
-    //   console.log(item)
-    //   // function myFunction() {
-    //   //   timeout = setTimeout(alertFunc, 3000);
-    // }
-
   }
 
   for (let item of newInput) {
